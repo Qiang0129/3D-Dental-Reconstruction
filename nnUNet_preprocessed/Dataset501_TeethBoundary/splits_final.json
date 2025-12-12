@@ -1,0 +1,107 @@
+[
+    {
+        "train": [
+            "case_001",
+            "case_002",
+            "case_003",
+            "case_004",
+            "case_005",
+            "case_006",
+            "case_008",
+            "case_009",
+            "case_010",
+            "case_012",
+            "case_013",
+            "case_014"
+        ],
+        "val": [
+            "case_000",
+            "case_007",
+            "case_011"
+        ]
+    },
+    {
+        "train": [
+            "case_000",
+            "case_001",
+            "case_002",
+            "case_004",
+            "case_005",
+            "case_007",
+            "case_009",
+            "case_010",
+            "case_011",
+            "case_012",
+            "case_013",
+            "case_014"
+        ],
+        "val": [
+            "case_003",
+            "case_006",
+            "case_008"
+        ]
+    },
+    {
+        "train": [
+            "case_000",
+            "case_001",
+            "case_002",
+            "case_003",
+            "case_004",
+            "case_005",
+            "case_006",
+            "case_007",
+            "case_008",
+            "case_009",
+            "case_011",
+            "case_013"
+        ],
+        "val": [
+            "case_010",
+            "case_012",
+            "case_014"
+        ]
+    },
+    {
+        "train": [
+            "case_000",
+            "case_001",
+            "case_002",
+            "case_003",
+            "case_005",
+            "case_006",
+            "case_007",
+            "case_008",
+            "case_010",
+            "case_011",
+            "case_012",
+            "case_014"
+        ],
+        "val": [
+            "case_004",
+            "case_009",
+            "case_013"
+        ]
+    },
+    {
+        "train": [
+            "case_000",
+            "case_003",
+            "case_004",
+            "case_006",
+            "case_007",
+            "case_008",
+            "case_009",
+            "case_010",
+            "case_011",
+            "case_012",
+            "case_013",
+            "case_014"
+        ],
+        "val": [
+            "case_001",
+            "case_002",
+            "case_005"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+# =====================
+# Python / 通用
+# =====================
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# 虚拟环境
+env/
+venv/
+.venv/
+environment/
+
+# VSCode
+.vscode/
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =====================
+# 数据与模型（核心忽略）
+# =====================
+
+# 原始与处理数据
+# dataset/
+
+# inference 相关输出与测试数据
+# inference/test_images/
+# inference/test_images_nnunet_format/
+# inference/vis_results/
+
+# nnUNet 数据结构
+# nnUNet_raw\Dataset501_TeethBoundary\imagesTr
+# nnUNet_raw\Dataset501_TeethBoundary\imagesVa
+# nnUNet_raw\Dataset501_TeethBoundary\labelsTr
+# nnUNet_preprocessed\Dataset501_TeethBoundary\gt_segmentations
+
+
+# =====================
+# 可选：如果未来想保留目录但不提交内容
+#（目前不需要，可忽略）
+# =====================
+# !dataset/README.md
