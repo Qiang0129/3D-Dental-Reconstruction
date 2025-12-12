@@ -1,12 +1,10 @@
-下面是你这段内容整理成的 **Markdown 格式**（直接复制到 `README.md` 或 `REDME.md` 里即可）：
 
-````markdown
 ## 一、Python 环境的安装
 
 1. 首先看看环境有没有 `python3.8` 或者 `python3.10`（不要用 3.11，nnU-Net v2 不适配）
    ```bash
    pyenv versions
-````
+   ````
 
 2. 创建一个 Python 环境
 
@@ -126,6 +124,4 @@ source ~/.bashrc
    python inference/visualize_only.py
    ```
 
-```
-::contentReference[oaicite:0]{index=0}
-```
+
